@@ -1,4 +1,4 @@
-[![Stateful Status](https://badge.stateful.com/sourishkrout/status)](https://stateful.com/@sourishkrout)
+[![Stateful Status](https://badge.stateful.com/sourishkrout/status.svg)](https://stateful.com/@sourishkrout)
 
 <!--
 ### Hi there 👋
