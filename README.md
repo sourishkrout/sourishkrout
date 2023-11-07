@@ -1,4 +1,4 @@
-[![Stateful Status](https://badge.stateful.com/sourishkrout/status.svg)](https://stateful.com/@sourishkrout)
+[![Runme](https://raw.githubusercontent.com/stateful/runme/main/.github/images/github-header.png)](https://runme.dev)
 
 <!--
 ### Hi there 👋
